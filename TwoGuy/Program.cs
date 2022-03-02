@@ -6,7 +6,6 @@ namespace TwoGuy
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
             Guy jacek = new Guy() {cash = 50, name = "Jacek" };
             Guy bartek = new Guy() {cash = 100, name = "Bartek"};
 
